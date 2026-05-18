@@ -1,0 +1,12 @@
+target/
+
+# Local test artifacts
+test_results.txt
+*.log
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
